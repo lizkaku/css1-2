@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    color: #000;
+    font-size: 72px;
+    text-align: center;
+    margin-top: 24px;
+    
+}
+#xy {
+    color: #000;
+    text-align: center;
+    font-size: 40px;
+    
+}
+#sky {
+    color: #414651;
+    text-align: center;
+    font-size: 20px;
+    
+}
+#xoxo {
+    color: #155EEF;
+    font-size: 16px;
+    
+}
